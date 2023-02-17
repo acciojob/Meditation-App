@@ -1,4 +1,4 @@
-# Speed Typing
+# Meditation App
 
 The task is to create an application using `HTML` , `CSS` and `Javascript` Which let's users to meditate as having an video being renderd constantly throughout the meditation and a meditation sound should be played along with it, apart from this the users should have a choice of seleting the time for their meditation.with the users should also have an option to switch between 2 medition sound.
 
